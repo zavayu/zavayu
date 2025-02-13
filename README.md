@@ -12,33 +12,33 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cpp" height="44" alt="cplusplus logo"  />
-  <img width="16" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=java" height="44" alt="java logo"  />
-  <img width="16" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=py" height="44" alt="python logo"  />
-  <img width="16" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="44" alt="haskell logo"  />
-  <img width="16" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=js" height="44" alt="javascript logo"  />
-  <img width="16" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=ts" height="44" alt="typescript logo"  />
-  <img width="16" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=html" height="44" alt="html5 logo"  />
-  <img width="16" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=css" height="44" alt="css3 logo"  />
-  <img width="16" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=r" height="44" alt="r logo"  />
-  <img width="16" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=react" height="44" alt="react logo"  />
-  <img width="16" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="44" alt="nodejs logo"  />
-  <img width="16" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=express" height="44" alt="express logo"  />
-  <img width="16" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="44" alt="nextjs logo"  />
-  <img width="16" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="44" alt="mongodb logo"  />
-  <img width="16" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=aws" height="44" alt="amazonwebservices logo"  />
 </div>
 
