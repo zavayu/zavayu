@@ -1,5 +1,5 @@
 # Hi👋, I'm Zavier
-A CS student at Texas A&M University<br><br>● previous SWE intern @ HPE<br>● incoming SWE intern @ Oracle (OCI)
+A CS student at Texas A&M University<br><br>● SWE intern @ Oracle (OCI)<br>● previous SWE intern @ HPE
 
 
 ## Connect with me:
